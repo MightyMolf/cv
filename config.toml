@@ -21,7 +21,7 @@ showContact = true
 showBoards  = true
 showCertifications = true
 showSocializations = true
-sections = ["skills","publications","creations","contributions","experience","education","blog"]
+sections = ["skills","creations","contributions","experience","education","blog"]
 
 
 [params.google]
@@ -34,13 +34,14 @@ trackerID = "XX-123446-01"
     link = "https://www.linkedin.com/in/edwardwebb/"
 
 [[params.handles]]
-    name = "GitHub"
-    link = "https://github.com/eddiewebb/"
-
-[[params.handles]]
     name = "Keybase"
     link = "https://keybase.io/edwardawebb"
     icon = "keybase"
+
+[[params.handles]]
+    name = "Youtube"
+    link = "https://keybase.io/edwardawebb"
+    icon = "youtube"
     
 [[params.handles]]
     name = "Bluesky"
