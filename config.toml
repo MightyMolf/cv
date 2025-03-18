@@ -9,12 +9,12 @@ enableGitInfo = false
 defaultContentLanguage = "fr"
 
 [params]
-address = "Montauban, 82000"
-email = "loan.ung@orange.fr"
+address = "Somewhere in Nevada, XX000"
+email = "loan.XXX@ZZZ.fr"
 favicon = "/favicon.ico"
 firstName = "Loan"
-lastName = "Ung"
-phone = "+33 6 51 14 00 16"
+lastName = "YYY"
+phone = "+33 6 XX XX XX XX"
 profileImage = "img/TechChat.png"
 showQr = true
 showContact = true
