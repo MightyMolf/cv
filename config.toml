@@ -1,4 +1,4 @@
-title = "Eddie Webbinaro"
+title = "Loan YYY"
 baseURL = "https://example.com/"
 theme = "resume"
 languageCode = "en-us"
@@ -15,13 +15,13 @@ favicon = "/favicon.ico"
 firstName = "Loan"
 lastName = "YYY"
 phone = "+33 6 XX XX XX XX"
-profileImage = "img/TechChat.png"
+profileImage = "img/ouin.png"
 showQr = true
-showContact = true
-showBoards  = true
-showCertifications = true
+showContact = false
+showBoards  = false
+showCertifications = false
 showSocializations = true
-sections = ["skills","creations","contributions","experience","education","blog"]
+sections = ["skills","creations","experience","education"]
 
 
 [params.google]

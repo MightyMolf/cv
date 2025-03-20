@@ -1,20 +1,20 @@
 [
     {
-        "role":"Boss man",
-        "company":"Current Company LTD",
-        "summary":"Led in development of fast paced software teams.\n- list\n- of\n- things",
-        "range":"February 2016 - Present"
+        "role":"Service Civique",
+        "company":"Mouvement pour l'Economie Solidaire Occitanie",
+        "summary":"Led in development of fast paced software teams.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque placerat nisi at orci suscipit tincidunt. Duis mollis varius laoreet. Integer hendrerit lacus at urna placerat pulvinar. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque placerat nisi at orci suscipit tincidunt. Duis mollis varius laoreet. Integer hendrerit lacus at urna placerat pulvinar. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque placerat nisi at orci suscipit tincidunt. Duis mollis varius laoreet. Integer hendrerit lacus at urna placerat pulvinar. \n- Gestion de la communication (Réseaux sociaux, newsletters...)\n- Création de comptes-rendus et de visuels\n- Captation vidéo d'évènements et montages \n- Logistique évènementielle",
+        "range":"Octobre 2023 - Juillet 2024"
     },
     {
-        "role":"Developer",
-        "company":"Current Company LTD",
-        "summary":"Expedited the synergies of collaborative agile tooling.",
-        "range":"March 2014 - February 2016"
+        "role":"Vendeur",
+        "company":"Tabac Presse UNG",
+        "summary":"Led in development of fast paced software teams.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque placerat nisi at orci suscipit tincidunt. Duis mollis varius laoreet. Integer hendrerit lacus at urna placerat pulvinar. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque placerat nisi at orci suscipit tincidunt. Duis mollis varius laoreet. Integer hendrerit lacus at urna placerat pulvinar. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque placerat nisi at orci suscipit tincidunt. Duis mollis varius laoreet. Integer hendrerit lacus at urna placerat pulvinar.",
+        "range":"De 2019 à 2022, Juillet-Août"
     },
     {
-        "role":"Developer",
-        "company":"Previous Company Inc.",
+        "role":"Stagiaire",
+        "company":"Acantys",
         "summary":"Implemented continuous devops pipelines automationing",
-        "range":"February 2013 - March 2014"
+        "range":"Décembre 2015"
     }
 ]
